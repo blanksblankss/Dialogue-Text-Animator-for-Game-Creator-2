@@ -7,6 +7,10 @@ Bring expressive, animated dialogue text to **Game Creator 2 Dialogue** with a T
 [![TextMeshPro](https://img.shields.io/badge/TextMeshPro-Required-orange)](https://docs.unity3d.com/Packages/com.unity.textmeshpro@latest)
 [![Asset Store](https://img.shields.io/badge/Unity%20Asset%20Store-View%20Asset-000000?logo=unity)](https://assetstore.unity.com/packages/tools/utilities/dialogue-text-animator-for-game-creator-2-370116)
 
+<p align="center">
+  <img src="docs/media/dialogue-text-animator-preview.svg" alt="Dialogue Text Animator for Game Creator 2 showing multiple animated dialogue text styles in Unity" width="900" />
+</p>
+
 > **Dialogue Text Animator for Game Creator 2** adds per-tag text animation, styling, typewriter effects, optional audio, editor-assisted tagging, and GC2 visual-scripting hooks to Dialogue Speech UI without modifying the official Game Creator 2 packages.
 
 ## Get the Asset
